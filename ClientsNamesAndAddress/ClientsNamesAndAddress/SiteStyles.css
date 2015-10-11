@@ -1,0 +1,39 @@
+﻿div {
+    display:block;
+    text-align: left;
+    background-color:#ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+    
+
+table {
+    border-collapse:collapse; 
+    border-color:#4e95f4;
+
+    }
+
+tr:nth-child(odd){ 
+		background: #b8d1f3;
+	}
+
+tr:nth-child(even){
+		background: #dae5f4;
+	}
+
+td {
+     border:#4e95f4 1px solid;   
+     text-align:center;
+     padding: 5px;
+     color: black;
+     
+}
+tr, th {
+     background: #183e49;
+     color: white;
+     text-align:center;
+     padding: 10px;  
+}

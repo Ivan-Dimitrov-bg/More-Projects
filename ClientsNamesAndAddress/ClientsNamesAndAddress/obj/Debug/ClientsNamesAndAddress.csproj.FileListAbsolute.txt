@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\01.Spring\15.ASP.NET Web Forms\HM\ClientsNamesAndAddress\ClientsNamesAndAddress\obj\Debug\ClientsNamesAndAddress.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\01.Spring\15.ASP.NET Web Forms\HM\ClientsNamesAndAddress\ClientsNamesAndAddress\bin\ClientsNamesAndAddress.dll.config
+D:\01.Телерик Академи\01.Spring\15.ASP.NET Web Forms\HM\ClientsNamesAndAddress\ClientsNamesAndAddress\bin\ClientsNamesAndAddress.dll
+D:\01.Телерик Академи\01.Spring\15.ASP.NET Web Forms\HM\ClientsNamesAndAddress\ClientsNamesAndAddress\bin\ClientsNamesAndAddress.pdb
+D:\01.Телерик Академи\01.Spring\15.ASP.NET Web Forms\HM\ClientsNamesAndAddress\ClientsNamesAndAddress\obj\Debug\ClientsNamesAndAddress.dll
+D:\01.Телерик Академи\01.Spring\15.ASP.NET Web Forms\HM\ClientsNamesAndAddress\ClientsNamesAndAddress\obj\Debug\ClientsNamesAndAddress.pdb

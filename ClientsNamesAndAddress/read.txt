@@ -1,0 +1,7 @@
+Microsoft SQL Server Management Studio						12.0.4100.1
+Microsoft Analysis Services Client Tools						12.0.4100.1
+Microsoft Data Access Components (MDAC)						6.1.7601.17514
+Microsoft MSXML						3.0 6.0 
+Microsoft Internet Explorer						9.11.9600.18015
+Microsoft .NET Framework						4.0.30319.42000
+Operating System						6.1.7601

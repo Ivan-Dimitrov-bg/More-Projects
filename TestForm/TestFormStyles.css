@@ -1,0 +1,268 @@
+﻿body {
+    overflow:auto;
+	padding:0px;
+	margin:0px;
+}
+#wrapper {
+	
+	width: 1120px;
+	height: 570px;
+	margin-left:0px;
+	margin-top:80px;
+    font-family: Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+}
+#addScroll span {
+	top:10px
+}
+
+#addScroll #wrapper {
+	position:absolute;
+    width: 1200px;
+	margin-top:80px;
+	margin-left:112px;
+	height: 570px;
+    border: 0px solid green;
+}
+
+#addScroll .footerFixed {
+	position:fixed;
+	bottom:0;
+	z-index: 2;
+}
+.footerFixed{
+	position:fixed;
+	bottom:0;
+	background: #1a4c81;
+	width: 1120px;
+	z-index: 2;
+}
+.headFixed {
+	position:fixed;
+	top:0;
+	width:1120px;
+	z-index: 2;
+
+}
+.headFixed  th{
+	width:120px;
+	text-align:left;
+	z-index: 2;
+	}
+
+#addScroll .headFixed {
+	position:fixed;
+	top:0;
+	width:1120px;
+
+}
+#addScroll .headFixed  th{
+	width:100px;
+	z-index: 2;
+
+}
+#addScroll .headFixed  #cornerRight{
+	width:120px;
+
+}
+#addScroll .headFixed  td{
+	width:100px;
+}
+
+
+
+#addScroll #cornerRight, #addScroll #cornerLeft{
+	background: #1a4c81;
+
+	height: 35px;
+	top:80px;
+	z-index:1;
+	padding-top:35px;
+}
+
+#addScroll #cornerRigh{
+	width:120px;
+	padding-top:35px;
+}
+
+#addScroll #cornerLeft{
+	width:100px;
+	padding-top:35px;
+}
+#addScroll th{
+	background: #1a4c81;
+	height:60px;
+
+}
+#addScroll .last {
+    position: fixed;
+    right: 0;
+    width: 120px;
+	height:40px;
+	margin: 0;
+	padding:10px;
+	z-index: 1;
+}
+#addScroll .first {
+    position: fixed;	
+    left: 0;
+	height:40px;
+
+	margin: 0;
+	padding:0;
+    width: 100px;
+	padding: 10px;
+	text-align:center;
+	z-index: 1;
+}  
+#addScroll .footer {
+    position: absolute;
+    bottom: 0px;
+	 background: #1a4c81;
+    height: 20px;
+	width: 1320px;
+	border-radius: 0px 0px 0px 0px;
+	margin-left:-120px;
+	z-index: 2;
+}
+
+#addScroll #lastTdLeft, #addScroll #lastTdRight{
+	height:30px;
+
+}
+
+#addScroll #firstTfoot{
+	height:20px;
+	background: #1a4c81;
+	margin-top:-10px;
+	padding:0px;
+	width:120px;
+	border-radius: 0px 0px 0px 10px;
+	
+}
+#addScroll #lastTfoot{
+	width:120px;
+	height:20px;
+	background: #1a4c81;
+	padding:0px;
+	padding-right: 10px;
+	margin-top:0px;
+	border-radius: 0px 0px 10px 0px;
+	 
+
+}
+#firstTfoot{
+	
+	background: #1a4c81;
+	border-radius: 0px 0px 0px 10px;
+	 height:20px;
+}
+#lastTfoot{
+	background: #1a4c81;
+	 border-radius: 0px 0px 10px 0px;
+	 height:20px;
+}
+tr:nth-child(odd){ 
+		background: #ffffff;
+	}
+
+tr:nth-child(even){
+		background: #dddddd;
+	}
+
+td {
+     text-align:left;
+     color: black;
+	 padding: 10px;
+	 font-size: 12px;
+	 height: 40px;
+	 margin:0px;
+	
+}
+
+tr{
+	padding:0px;
+}
+
+th{
+     height: 40px;
+	 font-size: 10px;
+	 border-radius: 0px 0px 0px 0px;
+     background: #1a4c81;
+	 color:white;
+     text-align:left;
+     padding: 10px;
+}
+#cornerLeft{
+	 border-radius: 10px 0px 0px 0px;
+	 height:40px;
+     background: #1a4c81;
+	 color: white;
+     text-align:center;
+     padding: 10px;
+}
+#cornerRight{
+     border-radius: 0px 10px 0px 0px;
+     background: #1a4c81;
+     color: white;
+     text-align:center;
+     padding: 10px;
+	 height:40px;
+}
+
+
+
+table tfoot tr td{
+    background: #1a4c81;
+   
+	padding: 0px;
+	height: 20px;
+}
+.textLeft{
+	text-align:left;
+}
+
+.round-button {
+	display: inline-block;
+	width: 30px;
+    height: 30px;
+}
+.round-button-circle {
+	width: 100%;
+	height:0;
+	padding-bottom: 100%;
+    border-radius: 50%;
+	border:none;
+    overflow:hidden;
+    box-shadow: 0 0 3px gray;
+}
+
+.round-button a {
+    display:block;
+	width:100%;
+	padding-top:40%;
+    padding-bottom:50%;
+	line-height:1em;
+	margin-top:-0.5em;
+	text-align:center;
+	color:white;
+    font-family:Verdana;
+    font-size:35px;
+    text-decoration:none;
+}
+#divPlus{
+   background: green;
+}
+
+#divCross{
+	background: red;
+}
+#divArrow{
+	background: blue;
+}
+
+#RemoveScroll div#wrapper {
+	border: 1px solid green;
+	width: 1120px;
+	height: 650px;
+}
