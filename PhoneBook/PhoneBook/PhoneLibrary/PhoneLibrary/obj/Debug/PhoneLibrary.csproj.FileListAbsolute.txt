@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneLibrary\PhoneLibrary\bin\Debug\PhoneLibrary.dll
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneLibrary\PhoneLibrary\bin\Debug\PhoneLibrary.pdb
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneLibrary\PhoneLibrary\obj\Debug\PhoneLibrary.dll
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneLibrary\PhoneLibrary\obj\Debug\PhoneLibrary.pdb
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneLibrary\PhoneLibrary\obj\Debug\PhoneLibrary.csprojResolveAssemblyReference.cache

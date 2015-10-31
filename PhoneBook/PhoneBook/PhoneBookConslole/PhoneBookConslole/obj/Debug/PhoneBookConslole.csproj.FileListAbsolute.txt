@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneBookConslole\PhoneBookConslole\bin\Debug\PhoneBookConslole.exe.config
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneBookConslole\PhoneBookConslole\bin\Debug\PhoneBookConslole.exe
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneBookConslole\PhoneBookConslole\bin\Debug\PhoneBookConslole.pdb
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneBookConslole\PhoneBookConslole\obj\Debug\PhoneBookConslole.exe
+D:\01.Телерик Академи\01.Spring\28.PhoneBook\PhoneBookConslole\PhoneBookConslole\obj\Debug\PhoneBookConslole.pdb
